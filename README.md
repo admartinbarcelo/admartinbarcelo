@@ -1,15 +1,13 @@
-### Hi, my name is Adrián 👋
+### Hi, my name is Adrián 👋, a Full-Stack Web Developer.
 
-I am a creative and proactive person, always looking for innovative solutions to technical and business challenges. Additionally, I enjoy working in teams and maintaining clear and effective communication with my teammates and clients.
+I'm passionate about developing functional, intuitive, and visually striking web applications. I constantly strive to seek out innovative solutions to both technical and business challenges.
 
 ## Technologies 🚀
 
-- Javascript (ES6)
-- HTML & CSS
-- MongoDB
-- Express
-- React
-- NodeJS
+- Front-end: HTML, CSS, JavaScript (ES6), React
+- Back-end: Node.js, Express
+- Database: MongoDB
+- Tools: Git, VS Code, npm, Webpack
 
 <!--
 **admartinbarcelo/admartinbarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
