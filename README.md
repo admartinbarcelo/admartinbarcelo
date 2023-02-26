@@ -10,7 +10,7 @@ I'm passionate about developing functional, intuitive, and visually striking web
 - Tools: Git, VS Code, npm, Webpack
 
 ## 📫 Contact Me
-- LinkedIn - [Gaurav Chouhan](https://www.linkedin.com/in/admartinbarcelo/)
+- LinkedIn - [Adrian Martin](https://www.linkedin.com/in/admartinbarcelo/)
 <!--
 **admartinbarcelo/admartinbarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
