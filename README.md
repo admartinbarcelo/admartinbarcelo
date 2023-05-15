@@ -4,7 +4,7 @@ I'm passionate about developing functional, intuitive, and visually striking web
 
 ## Technologies 🚀
 
-- Front-end: HTML, CSS, JavaScript (ES6), React
+- Front-end: HTML, CSS, JavaScript (ES6), React, TypeScript, Bootstrap & Tailwind
 - Back-end: Node.js, Express
 - Database: MongoDB
 - Tools: Git, VS Code, npm, Webpack
