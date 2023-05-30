@@ -9,7 +9,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Adrian Martin';
   title    = 'Full Stack Developer';
   location = 'Barcelona, Spain';
-  website = [Website](https://admartinbarcelo.netlify.app/)
+  website = 'https://admartinbarcelo.netlify.app/';
 }
 
 class Skills extends SoftwareDeveloper {
