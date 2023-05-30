@@ -11,17 +11,24 @@ I'm passionate about developing functional, intuitive, and visually striking web
 
 ## 📫 Contact Me
 - LinkedIn - [Adrian Martin](https://www.linkedin.com/in/admartinbarcelo/)
-<!--
-**admartinbarcelo/admartinbarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/admartinbarcelo/admartinbarcelo/raw/main/cover-admartin.png" />
+</p>
 
-Here are some ideas to get you started:
+```js
+import SoftwareDeveloper from 'Admartinbarcelo';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Bio extends SoftwareDeveloper {
+  name     = 'Adrian Martin';
+  title    = 'Full Stack Developer';
+  location = 'Barcelona, Spain';
+}
+
+class Skills extends SoftwareDeveloper {
+  frontend  = ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'TailwindCSS', 'Bootstrap'];
+  backend = ['NodeJS', 'Express']
+  databases  = ['MongoDB'];
+  frameworks = ['React'];
+  tools = ['Git', 'GitHub', 'VS Code', 'npm', 'Webpack' ]
+}
+```
