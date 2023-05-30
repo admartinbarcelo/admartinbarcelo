@@ -5,19 +5,22 @@
 ```js
 import { SoftwareDeveloper } from '@Admartinbarcelo';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Adrian Martin';
-  title    = 'Full Stack Developer';
-  location = 'Barcelona, Spain';
-  website = 'https://admartinbarcelo.netlify.app/';
+class Developer extends SoftwareDeveloper {
+  constructor() {
+    super();
+    this.name = 'Adrian Martin';
+    this.title = 'Full Stack Developer';
+    this.location = 'Barcelona, Spain';
+    this.website = 'https://admartinbarcelo.netlify.app/';
+    this.skills = {
+      frontend: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'TailwindCSS', 'Bootstrap'],
+      backend: ['NodeJS', 'Express'],
+      databases: ['MongoDB'],
+      frameworks: ['React'],
+      tools: ['Git', 'GitHub', 'VS Code', 'npm', 'Webpack' ],
+      currentlyLearning: ['Python', 'Django'],
+    };
+  }
 }
 
-class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'TailwindCSS', 'Bootstrap'];
-  backend = ['NodeJS', 'Express']
-  databases  = ['MongoDB'];
-  frameworks = ['React'];
-  tools = ['Git', 'GitHub', 'VS Code', 'npm', 'Webpack' ];
-  currentlyLearning = ['Python', 'Django'];
-}
 ```
