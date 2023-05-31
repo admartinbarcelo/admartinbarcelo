@@ -24,10 +24,10 @@ class AdrianMartin extends SoftwareDeveloper {
     console.log(`
       Tengo experiencia en una variedad de tecnologías, incluyendo:
 
-      Frontend: JavaScript, TypeScript, HTML, CSS, TailwindCSS, Bootstrap
-      Backend: NodeJS, Express
-      Bases de Datos: MongoDB
-      Frameworks: React
+      Frontend: JavaScript, TypeScript, HTML, CSS, TailwindCSS, Bootstrap,
+      Backend: NodeJS, Express,
+      Bases de Datos: MongoDB,
+      Frameworks: React,
       Herramientas: Git, GitHub, VS Code, npm, Webpack
     `);
   }
