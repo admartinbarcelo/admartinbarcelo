@@ -34,7 +34,7 @@ class AdrianMartin extends SoftwareDeveloper {
 
   currentlyLearning() {
     console.log(`
-      Me encanta aprender y actualmente estoy trabajando en mejorar mis habilidades en Python y Django.
+      Me encanta aprender y actualmente estoy trabajando en mejorar mis habilidades en NextJS y React Native.
     `);
   }
 }
