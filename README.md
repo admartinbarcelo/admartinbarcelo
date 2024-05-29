@@ -26,9 +26,9 @@ class AdrianMartin extends SoftwareDeveloper {
 
       Frontend: JavaScript, TypeScript, HTML, CSS, TailwindCSS, Bootstrap,
       Backend: NodeJS, Express,
-      Bases de Datos: MongoDB,
-      Frameworks: React,
-      Herramientas: Git, GitHub, VS Code, npm, Webpack
+      Bases de Datos: MongoDB, mySQL,
+      Frameworks: ReactJS, NextJS
+      Herramientas: Git, GitHub, VSCode, npm, Webpack
     `);
   }
 
